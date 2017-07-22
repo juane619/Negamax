@@ -1,0 +1,2 @@
+# Negamax
+Negamax-conectaN
