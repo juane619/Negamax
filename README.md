@@ -1,9 +1,9 @@
-# Negamax
+# Negamax algorithm
 Negamax-conectaN
 
-Versión generalizada del conocido juego Conecta-4, basada en la interacción con la consola.
+Generalized version of Connect-4 game, console-based.
 
-Programado en C++, basándose en el algoritmo Negamax con poda alfa-beta.
+Development in C++. Algorithm Negamax with beta-alpha prunning.
 
-Utilizamos compilación separada, ejecutar "make" para su instalación. 
-Ejecutar el ejecutable obtenido en la carpeta "/bin".
+Installation: make.
+Execution: .bin/conectaN
